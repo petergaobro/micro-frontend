@@ -2,7 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "author": "",
+  "author": {
+    "name": "penggao",
+    "email": "gaopeng19931027@gmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
